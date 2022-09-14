@@ -1,0 +1,22 @@
+table{
+    border-collapse: collapse;
+    padding: 2px;
+}
+
+
+thead{
+    border-bottom: 2px solid black;
+}
+
+.outer_row,tr:first-of-type{
+    border-bottom: 1px solid black;
+}
+
+tbody tr{
+    border-bottom: 5px double black;
+    padding: 1px;
+}
+
+a{
+    text-decoration: none;
+}

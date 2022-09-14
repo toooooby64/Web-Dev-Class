@@ -1,0 +1,47 @@
+.col-first {
+  width: 60%;
+  margin-top: 6px;
+  float: left;
+  background-color: yellow;
+}
+
+.col-second {
+  margin-top: 6px;
+  float: left;
+  width: 38%;
+  background-color: yellow;
+  margin-left: 2%;
+}
+.col-left {
+  width: 60%;
+  margin-top: 6px;
+  float: left;
+}
+
+.col-right {
+  margin-top: 6px;
+  float: left;
+  width: 38%;
+  margin-left: 2%;
+}
+
+.form_body {
+  border-style: solid;
+  width: 98%;
+  padding: 1%;
+  margin-left: 2px;
+}
+#form_mid {
+  border-style: solid;
+  width: 90%;
+  padding: 1%;
+  margin-left: 2px;
+}
+
+.alink {
+  font-size: 20px;
+  color: blue;
+}
+hr {
+  border: 1px solid black;
+}
